@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21628556-5",
+ "nombre": "Emiliano",
+ "apellido": "Vásquez",
+ "direccion": "Conti 451",
+ "fono": 999344856,
+ "correo":"emiliano.vasquez02@inacapmail.cl",
+ "montoCredito": 220000,
+ "deuda":130000,
+ "tipo": 1
+ }
+]
